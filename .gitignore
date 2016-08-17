@@ -10,7 +10,6 @@ ex5/ex5
 ex6/ex6
 ex7/ex7
 
-.vscode
 # Object files
 *.o
 *.ko
@@ -32,6 +31,7 @@ ex7/ex7
 *.so
 *.so.*
 *.dylib
+.vscode
 
 # Executables
 *.exe
